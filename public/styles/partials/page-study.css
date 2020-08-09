@@ -135,6 +135,13 @@
     transition: 200ms;
 }
 
+#page-study main .no-results {
+    max-width: 300px;
+    margin: 12rem auto;
+    text-align: center;
+    font-size: 1.6rem;
+}
+
 
 /* ========= Responsividade para desktop ======== */
 
